@@ -1,0 +1,19 @@
+def la_semana():
+    dia=input("Introduzca un dia de la semana ")
+    if(dia==1):
+        print "Es lunes"
+    if(dia==2):
+        print "Es martes"
+    if(dia==3):
+        print "Es miercoles"
+    if(dia==4):
+        print "Es jueves"
+    if(dia==5):
+        print "Es viernes"
+    if(dia==6):
+        print "Es sabado"
+    if(dia==7):
+        print "Es domingo"
+la_semana()
+    
+    
